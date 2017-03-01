@@ -10,9 +10,9 @@ Stochastic Coordinate Coding
 
 Authors:
 
-          Qingyang Li, email: liqingyanghappy@gmail.com (Primacy contact person)
+	Qingyang Li, email: liqingyanghappy@gmail.com (Primacy contact person)
 
-	  BinBin Lin, email: binbinlinzju@gmail.com
+	BinBin Lin, email: binbinlinzju@gmail.com
          
 The method has been published in several top conferences in the medical image field:
 
@@ -29,7 +29,7 @@ Jinglei Lv, Binbin Lin, Wei Zhang, Xi Jiang, Xintao Hu, Junwei Han, Lei Guo, Jie
 
 If you find the SCC package useful, please cite our work as follows: 
 
-Binbin Lin, Qingyang Li, Qian Sun, Ming-Jun Lai, Ian Davidson, Wei Fan, Jieping Ye. "Stochastic coordinate coding and its application for drosophila gene expression pattern annotation", arXiv preprint arXiv:1407.8147.
+	Binbin Lin, Qingyang Li, Qian Sun, Ming-Jun Lai, Ian Davidson, Wei Fan, Jieping Ye. "Stochastic coordinate coding and its application for drosophila gene expression pattern annotation", arXiv preprint arXiv:1407.8147.
 
 
 
