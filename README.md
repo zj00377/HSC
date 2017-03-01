@@ -14,7 +14,7 @@ Qingyang Li, email: liqingyanghappy@gmail.com (Primacy contact person)
 
 BinBin Lin, email: binbinlinzju@gmail.com
          
-The method has been published in several top conferences im medical image field:
+The method has been published in several top conferences in the medical image field:
 
 Binbin Lin, Qingyang Li, Qian Sun, Ming-Jun Lai, Ian Davidson, Wei Fan, Jieping Ye. "Stochastic coordinate coding and its application for drosophila gene expression pattern annotation", arXiv preprint arXiv:1407.8147.
 
