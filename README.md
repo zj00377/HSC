@@ -9,6 +9,7 @@
 Stochastic Coordinate Coding 
 
 Authors:  Qingyang Li, email: liqingyanghappy@gmail.com (Primacy contact person)
+
           BinBin Lin, email: binbinlinzju@gmail.com
          
 The method has been published in several top conferences im medical image field:
