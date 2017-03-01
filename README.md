@@ -6,15 +6,10 @@
 
 3. Addaptive Learning Rate. Each coordinate of the sparse code has its own learning rate. The learning rates are updated adaptively. 
 
-
 Stochastic Coordinate Coding 
 
-version 1.0
-
-Authors: Qingyang Li liqingyanghappy@gmail.com (primary contact person)
-	      
-	  Binbin Lin   binbinlinzju@gmail.com
-         
+Authors:  Qingyang Li, email: liqingyanghappy@gmail.com (Primacy contact person)
+          BinBin Lin, email: binbinlinzju@gmail.com
          
 The method has been published in several top conferences im medical image field:
 
