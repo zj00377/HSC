@@ -29,7 +29,9 @@ Jinglei Lv, Binbin Lin, Wei Zhang, Xi Jiang, Xintao Hu, Junwei Han, Lei Guo, Jie
 
 If you find the SCC package useful, please cite our work as follows: 
 
-	Binbin Lin, Qingyang Li, Qian Sun, Ming-Jun Lai, Ian Davidson, Wei Fan, Jieping Ye. "Stochastic coordinate coding and its application for drosophila gene expression pattern annotation", arXiv preprint arXiv:1407.8147.
+Binbin Lin, Qingyang Li, Qian Sun, Ming-Jun Lai, Ian Davidson, Wei Fan, Jieping Ye. "Stochastic coordinate coding and its application for drosophila gene expression pattern annotation", arXiv preprint arXiv:1407.8147.
+
+
 
 
 
