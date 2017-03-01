@@ -12,7 +12,8 @@ Stochastic Coordinate Coding
 version 1.0
 
 Authors: Qingyang Li liqingyanghappy@gmail.com (primary contact person)
-	       Binbin Lin   binbinlinzju@gmail.com
+	      
+	  Binbin Lin   binbinlinzju@gmail.com
          
          
 The method has been published in several top conferences im medical image field:
