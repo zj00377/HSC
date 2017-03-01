@@ -1,4 +1,4 @@
-Sparse Coordinate Coding 
+Stochastic Coordinate Coding 
 
 version 1.0
 
