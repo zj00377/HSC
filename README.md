@@ -4,7 +4,7 @@
 
 2. Coordinate Decent. The sparse code is first updated via one step of coordinate descent. Then only the nonzero entries of the sparse code are updated.
 
-3. Addaptive Learning Rate. Each coordinate of the sparse code has its own learning rate. The learning rates are updated adaptively. 
+3. Adaptive Learning Rate. Each coordinate of the sparse code has its own learning rate. The learning rates are updated adaptively. 
 
 Please refer to the file Readme_SCC_1.0.txt to use the scc package.
 
