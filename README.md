@@ -26,11 +26,6 @@ Jinglei Lv, Binbin Lin, Qingyang Li, Wei Zhang, Yu Zhao, Xi Jiang, Lei Guo, Junw
 Christine Guo, Jieping Ye, Tianming Liu. “Task FMRI data analysis based on supervised stochastic coordinate
 coding”. Medical Image Analysis.2017.
 
-If you find the SCC package useful, please cite our work as follows: 
-
-Binbin Lin, Qingyang Li, Qian Sun, Ming-Jun Lai, Ian Davidson, Wei Fan, Jieping Ye. "Stochastic coordinate coding and its application for drosophila gene expression pattern annotation", arXiv preprint arXiv:1407.8147.
-
-
 
 
 
