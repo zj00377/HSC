@@ -14,7 +14,7 @@ Authors:
 
 	Qingyang Li, email: liqingyanghappy@gmail.com (Primacy contact person)
 
-	BinBin Lin, email: binbinlinzju@gmail.com
+	Jie Zhang, email: jiezhang.joena@asu.edu
          
 The method has been published in several top conferences in the medical image field:
 
@@ -25,9 +25,6 @@ Jie Zhang, Jie Shi, Cynthia Stonnington, Qingyang Li, Boris A. Gutman, Kewei Che
 Jinglei Lv, Binbin Lin, Qingyang Li, Wei Zhang, Yu Zhao, Xi Jiang, Lei Guo, Junwei Han, Xintao Hu,
 Christine Guo, Jieping Ye, Tianming Liu. “Task FMRI data analysis based on supervised stochastic coordinate
 coding”. Medical Image Analysis.2017.
-
-Jinglei Lv, Binbin Lin, Wei Zhang, Xi Jiang, Xintao Hu, Junwei Han, Lei Guo, Jieping Ye, Tianming Liu. "Modeling Task FMRI Data via Supervised Stochastic Coordinate Coding". MICCAI 2015. 
-
 
 If you find the SCC package useful, please cite our work as follows: 
 
